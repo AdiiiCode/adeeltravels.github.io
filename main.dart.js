@@ -48093,7 +48093,7 @@ $1(a){return new A.dy(new A.aoS(a),null)},
 $S:314}
 A.aoS.prototype={
 $1(a){var s=null,r=A.bF(a,s,t.w).w
-return A.bd(s,A.tn("Slider/"+this.a,B.iD,s,s),B.l,s,s,B.B_,s,s,B.Fk,s,s,s,r.a.a)},
+return A.bd(s,A.tn("images/"+this.a,B.iD,s,s),B.l,s,s,B.B_,s,s,B.Fk,s,s,s,r.a.a)},
 $S:34}
 A.aoU.prototype={
 $2(a,b){this.a.a3u(a)},
